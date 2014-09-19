@@ -1,0 +1,6 @@
+commit: HEAD
+process_files: [DuruSans-Regular.ttf.ttx, src/DuruSans-Regular.otf.ttx, src/DuruSans-Regular-OTF.sfd,
+  src/DuruSans-Regular-TTF.sfd]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"

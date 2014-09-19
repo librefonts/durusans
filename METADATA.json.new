@@ -1,0 +1,42 @@
+{
+  "name": "Duru Sans",
+  "designer": "Onur Yazıcıgil",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Sans Serif",
+  "size": 21388,
+  "fonts": [
+    {
+      "name": "Duru Sans",
+      "style": "normal",
+      "weight": 400,
+      "filename": "DuruSans-Regular.ttf",
+      "postScriptName": "DuruSans-Regular",
+      "fullName": "DuruSans-Regular",
+      "copyright": "Copyright (c) 2010 by Sorkin Type Co with Reserved Font Name Duru.\r\rThis Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL"
+    },
+    {
+      "name": "Duru Sans",
+      "style": "normal",
+      "weight": 400,
+      "filename": "DuruSans-Regular-TTF.ttf",
+      "postScriptName": "DuruSans-Regular",
+      "fullName": "Duru Sans Regular",
+      "copyright": "Copyright (c) 2010 by Sorkin Type Co with Reserved Font Name Duru.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL"
+    },
+    {
+      "name": "Duru Sans",
+      "style": "normal",
+      "weight": 400,
+      "filename": "DuruSans-Regular-OTF.ttf",
+      "postScriptName": "DuruSans-Regular",
+      "fullName": "DuruSans-Regular",
+      "copyright": "Copyright (c) 2010 by Sorkin Type Co with Reserved Font Name Duru.\r\rThis Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL"
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2011-12-19"
+}
